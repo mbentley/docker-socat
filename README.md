@@ -1,6 +1,8 @@
 mbentley/socat
 ==============
 
+Note: this is archived; socat can be found in https://github.com/mbentley/docker-swissarmy
+
 docker image for socat
 based off of alpine:latest
 
